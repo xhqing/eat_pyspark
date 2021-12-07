@@ -6,3 +6,7 @@ Answer the key question about pyspark.
 ## What is UDF?
 
 ## What is Pandas UDF?
+
+## License
+MIT
+
